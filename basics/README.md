@@ -5,3 +5,4 @@
 - 3-listfiles: muestra el contenido del directorio actual en formato largo
 - 4-listmorefiles: muestra el contenido del directorio actual en formato largo, incluidos los archivos ocultos (que empiezan con .) 
 - 5-listfilesdigitonly: muestra el contenido del directorio actual en formato largo, con los IDs de usuarioy grupo mostrados numéricamente, incluidos los archivos ocultos (que empiezan con .) 
+- 6-firstdirectory: crea un directorio llamado my_first_directory en el directorio /tmp/
