@@ -11,3 +11,4 @@
 - 9-firstdirdeletion: elimina el directorio my_first_directory de /tmp
 - 10-back: cambia el directorio de trabajo al directorio anterior
 - 11-lists: lista en formato largo, con archivos ocultos, el directorio actual, el directorio padre y /boot
+- 12-file_type: imprime el tipo del archivo /tmp/iamafile
