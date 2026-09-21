@@ -11,3 +11,4 @@
 - 9-John_Doe: establece el modo del archivo hello en -rwxr-x-wx
 - 10-mirror_permissions: establece el modo de hello igual al modo de olleh
 - 10-mirror_permissions: establece el modo de hello igual al modo de olleh
+- 11-directories_permissions: añade permiso de ejecución a todos los subdirectorios del directorio actual
