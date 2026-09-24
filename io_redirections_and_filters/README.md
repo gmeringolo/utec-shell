@@ -9,3 +9,4 @@
 - 7-file: crea un archivo con nombre exacto que combina asteriscos, comillas y otros caracteres especiales, con el texto "Best School"
 - 8-cwd_state: escribe el resultado de ls -la en el archivo ls_cwd_content, sobrescribiéndolo si ya existe
 - 9-duplicate_last_line: duplica la última línea del archivo iacta
+- 10-no_more_js: elimina todos los archivos .js del directorio actual y sus subdirectorios
