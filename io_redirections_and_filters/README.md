@@ -2,3 +2,4 @@
 - 0-hello_world : imprime el texto Hello World que esta dentro del archivo
 - 1-confused_smiley: muestra el emoticono "(Ôo)'
 - 2-hellofile: muestra el contenido del archivo /etc/passwd
+- 3-twofiles: muestra el contenido de /etc/passwd y /etc/hosts
