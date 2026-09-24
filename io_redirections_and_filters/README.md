@@ -14,3 +14,4 @@
 - 12-newest_files: muestra los 10 archivos más recientes del directorio actual, del más reciente al más antiguo
 - 13-unique: imprime las palabras de la entrada estándar que aparecen exactamente una vez, ordenadas
 - 14-findthatword: muestra las líneas de /etc/passwd que contienen el patrón root
+- 15-countthatword: muestra el número de líneas que contienen el patrón bin en /etc/passwd
