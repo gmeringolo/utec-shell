@@ -6,3 +6,4 @@
 - 4-lastlines: muestra las últimas 10 líneas de /etc/passwd
 - 5-firstlines: muestra las primeras 10 líneas de /etc/passwd
 - 6-third_line: muestra la tercera línea del archivo iacta
+- 7-file: crea un archivo con nombre exacto que combina asteriscos, comillas y otros caracteres especiales, con el texto "Best School"
