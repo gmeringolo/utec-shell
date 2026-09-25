@@ -20,3 +20,4 @@
 - 18-letteronly: muestra las líneas de /etc/ssh/sshd_config que empiezan con una letra
 - 19-AZ: reemplaza los caracteres A por Z y c por e en la entrada estándar
 - 20-hiago: elimina todas las letras Cc de la entrada estándar- 21-reverse: invierte el texto de la entrada estándar
+- 22-users_and_homes: muestra todos los usuarios y sus directorios de inicio, ordenados por usuario
