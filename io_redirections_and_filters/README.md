@@ -19,3 +19,4 @@
 - 17-hidethisword: muestra las líneas de /etc/passwd que no contienen el patrón bin
 - 18-letteronly: muestra las líneas de /etc/ssh/sshd_config que empiezan con una letra
 - 19-AZ: reemplaza los caracteres A por Z y c por e en la entrada estándar
+- 19-AZ: reemplaza los caracteres A por Z y c por e en la entrada estándar
