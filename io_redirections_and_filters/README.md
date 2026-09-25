@@ -17,3 +17,4 @@
 - 15-countthatword: muestra el número de líneas que contienen el patrón bin en /etc/passwd
 - 16-whatsnext: muestra las líneas con el patrón root y las 3 líneas siguientes en /etc/passwd
 - 17-hidethisword: muestra las líneas de /etc/passwd que no contienen el patrón bin
+- 18-letteronly: muestra las líneas de /etc/ssh/sshd_config que empiezan con una letra
