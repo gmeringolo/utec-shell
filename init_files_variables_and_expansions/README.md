@@ -5,3 +5,4 @@
 - 3-paths: cuenta el número de directorios no vacíos en la variable PATH
 - 4-global_variables: lista las variables de entorno
 - 5-local_variables: lista todas las variables locales, de entorno y las funciones
+- 6-create_local_variable: crea la variable local BEST con valor School
