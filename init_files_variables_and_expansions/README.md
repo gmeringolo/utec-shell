@@ -13,3 +13,4 @@
 - 11-binary_to_decimal: convierte el número binario de la variable BINARY a base 10
 - 12-combinations: imprime todas las combinaciones de dos letras minúsculas excepto oo
 - 13-print_float: imprime con dos decimales el número guardado en la variable NUM
+- 14-decimal_to_hexadecimal: convierte el número decimal de la variable DECIMAL a base 16
