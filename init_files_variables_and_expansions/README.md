@@ -15,3 +15,4 @@
 - 13-print_float: imprime con dos decimales el número guardado en la variable NUM
 - 14-decimal_to_hexadecimal: convierte el número decimal de la variable DECIMAL a base 16
 - 15-rot13: codifica y decodifica texto de la entrada estándar con el cifrado ROT13
+- 16-odd: imprime cada línea impar de la entrada estándar, empezando por la primera
