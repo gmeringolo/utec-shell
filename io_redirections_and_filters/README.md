@@ -22,3 +22,4 @@
 - 20-hiago: elimina todas las letras Cc de la entrada estándar- 21-reverse: invierte el texto de la entrada estándar
 - 22-users_and_homes: muestra todos los usuarios y sus directorios de inicio, ordenados por usuario
 - 23-empty_casks: lista los nombres de todos los archivos y directorios vacíos, recursivamente
+- 24-gifs: lista sin extensión todos los archivos .gif regulares del directorio actual y subdirectorios, ordenados sin distinguir mayúsculas
