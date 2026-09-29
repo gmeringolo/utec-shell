@@ -24,3 +24,4 @@
 - 23-empty_casks: lista los nombres de todos los archivos y directorios vacíos, recursivamente
 - 24-gifs: lista sin extensión todos los archivos .gif regulares del directorio actual y subdirectorios, ordenados sin distinguir mayúsculas
 - 25-acrostic: decodifica un acróstico tomando la primera letra de cada línea
+- 26-the_biggest_fan: muestra los 11 hosts o IPs con más solicitudes en un log TSV de servidor web
